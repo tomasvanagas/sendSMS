@@ -1,3 +1,4 @@
-# sendSMS
+### sendSMS
 
-Usage: ./sendSMS <number> "<text>"
+Usage: 
+./sendSMS <number> "<text>"
