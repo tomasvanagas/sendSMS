@@ -4,6 +4,7 @@
 ```code
 Usage: 
 ./sendSMS.sh 37061212345 "text"
-or for unlimited sms
+
+Or for unlimited sms:
 torify ./sendSMS.sh 37061212345 "text"
 ```
